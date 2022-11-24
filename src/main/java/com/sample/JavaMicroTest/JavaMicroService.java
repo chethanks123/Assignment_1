@@ -18,7 +18,7 @@ public class JavaMicroService implements IEmployeeService{
 		//adding emp to the List  
 		emp.add(new Employee("S00993","Chethan KS","Cloud Associate-Development","Java","Niveus Solution"));  
 		emp.add(new Employee("S00995","Abhishek","Cloud Associate-Testing","Manual","Niveus Solution"));  
-  
+		emp.add(new Employee("S00997","Sachin","Cloud Associate-Devops","Manual","Niveus Solution"));  
 		//returns a list of Employee  
 		return emp;
 		
